@@ -9,4 +9,18 @@ it a ui
 
 like share subscribe
 
+## featur
+
+- has bell
+- great cookie
+- is web native
+- cookies exist outside main box
+- so does some text
+
+## contribute
+
+want feature? add it.
+
+## fin
+
 thank u god bles
