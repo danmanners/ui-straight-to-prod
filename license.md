@@ -3,7 +3,7 @@
 
  No Copyright (C) 2023
  Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+ of this license document, but changing it is not allowed, with the exception of signing your name under the document.
 
                             Preamble
 
